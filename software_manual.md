@@ -1,4 +1,7 @@
 # :information_source: Infomation
+
+[![hackmd-github-sync-badge](https://hackmd.io/_zTR-3VFSIiDyhH_MvUlkw/badge)](https://hackmd.io/_zTR-3VFSIiDyhH_MvUlkw)
+
 :::info
 This manual will provide guidance for CWB developers on how to effectively utilize the system's pre-built or custom-built packages.
 :::
